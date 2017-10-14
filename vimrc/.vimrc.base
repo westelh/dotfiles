@@ -1,0 +1,5 @@
+" .swpファイル出力先
+set directory=~/.vim/swpfiles
+
+" .バックアップ出力先
+set backupdir=~/.vim/backups

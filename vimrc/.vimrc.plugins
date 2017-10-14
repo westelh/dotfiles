@@ -1,4 +1,5 @@
 call plug#begin('~/.vim/plugged')
+    Plug 'eagletmt/ghci-vim'
 	Plug 'cohama/lexima.vim'
 	Plug 'cocopon/iceberg.vim'
 	Plug 'dag/vim2hs'

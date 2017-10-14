@@ -1,6 +1,9 @@
 " 初期化
 source ~/dotfiles/vimrc/.vimrc.init
 
+" 基本設定
+source ~/dotfiles/vimrc/.vimrc.base
+
 " プラグイン
 source ~/dotfiles/vimrc/.vimrc.plugins
 
