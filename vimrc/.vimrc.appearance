@@ -1,0 +1,9 @@
+"常にステータスラインを表示
+set laststatus=2
+
+" カラースキーム
+colorscheme iceberg
+
+
+
+

@@ -1,0 +1,2 @@
+" 自作コマンド読み込み
+source ~/dotfiles/vimrc/cmd/commands.vim

@@ -4,12 +4,6 @@ call plug#begin('~/.vim/plugged')
 	Plug 'dag/vim2hs'
 	Plug 'eagletmt/ghcmod-vim'
 	Plug 'Shougo/vimproc.vim', {'do' : 'make'}
+    Plug 'itchyny/lightline.vim'
+    Plug 'Shougo/unite.vim'
 call plug#end()
-
-set expandtab
-set shiftwidth=4
-set tabstop=4
-set softtabstop=4
-set smartindent
-
-colorscheme iceberg
