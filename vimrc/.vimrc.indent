@@ -1,5 +1,14 @@
-set expandtab
-set shiftwidth=4
-set tabstop=4
-set softtabstop=4
+" 次行のインデント調整
 set smartindent
+
+" タブに空白文字を使用
+set expandtab
+
+" 補完されるインデント幅
+set shiftwidth=4
+
+" <Tab>文字のインデント幅
+set tabstop=4
+
+" インデント幅
+set softtabstop=4
