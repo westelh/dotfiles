@@ -8,6 +8,7 @@ call plug#begin('~/.vim/plugged')
     Plug 'itchyny/lightline.vim'
     Plug 'Shougo/unite.vim'
     Plug 'tpope/vim-fugitive'
+    Plug 'octol/vim-cpp-enhanced-highlight'
 call plug#end()
 
 source ~/dotfiles/vimrc/plugincfg/fugitive.cfg
