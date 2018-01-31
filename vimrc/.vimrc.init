@@ -1,2 +1,7 @@
 " 自作コマンド読み込み
 source ~/dotfiles/vimrc/cmd/commands.vim
+
+" FileType定義
+augroup filetypedetect
+  au BufRead,BufNewFile *.yml setfiletype yaml
+augroup END

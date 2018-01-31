@@ -1,3 +1,6 @@
+" 行番号表示
+set number
+
 "常にステータスラインを表示
 set laststatus=2
 

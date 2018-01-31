@@ -1,3 +1,7 @@
+" ファイル形式自動認識
+filetype on
+filetype plugin indent on
+
 " .swpファイル出力先
 set directory=~/.vim/swpfiles
 
