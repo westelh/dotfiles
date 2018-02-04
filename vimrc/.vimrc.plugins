@@ -9,6 +9,7 @@ call plug#begin('~/.vim/plugged')
     Plug 'ujihisa/unite-colorscheme'
     Plug 'nanotech/jellybeans.vim'
     Plug 'justmao945/vim-clang'
+    Plug 'embear/vim-localvimrc'
 call plug#end()
 
 source ~/dotfiles/vimrc/plugincfg/fugitive.cfg

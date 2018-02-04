@@ -12,6 +12,3 @@ source ~/dotfiles/vimrc/.vimrc.indent
 
 " 外観設定
 source ~/dotfiles/vimrc/.vimrc.appearance
-
-" .vim.local
-source ~/dotfiles/vimrc/.vimrc.local
