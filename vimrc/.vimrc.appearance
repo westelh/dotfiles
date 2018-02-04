@@ -5,7 +5,7 @@ set number
 set laststatus=2
 
 " カラースキーム
-colorscheme iceberg
+colorscheme jellybeans
 
 
 
