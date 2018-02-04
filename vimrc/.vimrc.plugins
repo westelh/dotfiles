@@ -1,14 +1,14 @@
 call plug#begin('~/.vim/plugged')
-    Plug 'eagletmt/ghci-vim'
 	Plug 'cohama/lexima.vim'
 	Plug 'cocopon/iceberg.vim'
-	Plug 'dag/vim2hs'
-	Plug 'eagletmt/ghcmod-vim'
 	Plug 'Shougo/vimproc.vim', {'do' : 'make'}
     Plug 'itchyny/lightline.vim'
     Plug 'Shougo/unite.vim'
     Plug 'tpope/vim-fugitive'
     Plug 'octol/vim-cpp-enhanced-highlight'
+    Plug 'ujihisa/unite-colorscheme'
+    Plug 'nanotech/jellybeans.vim'
+    Plug 'justmao945/vim-clang'
 call plug#end()
 
 source ~/dotfiles/vimrc/plugincfg/fugitive.cfg
