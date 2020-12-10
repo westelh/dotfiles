@@ -5,8 +5,10 @@ set number
 set laststatus=2
 
 " カラースキーム
-colorscheme jellybeans
+" gruvbox spefific
+set background=dark
+let g:gruvbox_contrast_light = 'hard'
+let g:gruvbox_contrast_dark = 'hard'
 
-
-
+colorscheme gruvbox
 
