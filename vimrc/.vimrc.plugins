@@ -10,6 +10,7 @@ call plug#begin('~/.vim/plugged')
     Plug 'nanotech/jellybeans.vim'
     Plug 'justmao945/vim-clang'
     Plug 'embear/vim-localvimrc'
+    Plug 'morhetz/gruvbox'
 call plug#end()
 
 source ~/dotfiles/vimrc/plugincfg/fugitive.cfg
